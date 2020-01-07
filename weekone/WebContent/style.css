@@ -1,0 +1,35 @@
+body {
+	background-color: black;
+	color: white;
+}
+
+div {
+	width: 600px;
+	height: 200px;
+	color: white;
+	position: absolute;
+	font-weight: bold;
+	border-radius: 5px;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(247,247,247);
+}
+a:hover {
+	color: rgb(223,227,238);
+}
+.output, .welcome {
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif; 
+	border-radius: 3px;
+  	box-shadow: 0 5px 9px 0 rgba(255,255,255,0.5);
+  	padding: 50px;
+  	text-align: center;
+  	background-color: rgba(64,95,193, 0.7);
+}
