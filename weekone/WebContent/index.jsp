@@ -16,7 +16,7 @@ Your Name:<br>
 <input type="text" name="uname" placeholder="Enter your name" required>
 <br><br>
 Reverse Word:<br>  
-<input type="text" name="reverse" placeholder="Be random!" required> 
+<input type="text" name="reverse" placeholder="Be random!!" required> 
 <br><br> 
 <input type="submit" value="Go">
 </form>
